@@ -8,6 +8,12 @@ class add
 		c= a+b;
 		cout<<"Addition=",c<<endl;
 	}
+	void sub (int a, int b)
+	{
+		int c;
+		c= a-b;
+		cout<<"Subtraction=",c<<endl;
+	}
 	  
 	
 }
